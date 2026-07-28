@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **shayanmitra71@gmail.com**  For Collaboration/Project or A
 - 📫 **How to reach me:** shayanmitra71@gmail.com
 - ⚡ **Fun fact:** I enjoy turning ideas into real-world web applications
 
-  ## 🔗 Let's Connect. 🌐
+  ## 🚀 I’m a Tech Learner 😊😊
 
 Stay connected and be a part of my journey as I learn, build, and explore the world of technology. Feel free to connect with me on LinkedIn, Instagram, and Facebook.
 
