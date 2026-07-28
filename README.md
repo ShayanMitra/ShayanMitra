@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Shayan Mitra
+**A passionate CSE learner || Frontend development || Preparing for Full-Stack Development || Software Engineering Enthusiast || 📍B.Tech CSE Student at IEM Kolkata**
 
+Email Me 👉 ✉️ **shayanmitra71@gmail.com**  For Collaboration/Project or Anything Else 😊😊
+
+- 🔭 **I’m currently working on:** Frontend Projects, React.js, Node.js, Express.js, MongoDB & DSA
+- 🌱 **Academic Journey:** B.Tech CSE Undergraduate Student @IEM Kolkata
+- 👯 **I’m looking to collaborate on:** Frontend and Full-Stack Web Development Projects
+- 🤔 **I’m looking for help with:** Backend Development and Open Source Contributions
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, & Frontend Development 
+- 📫 **How to reach me:** shayanmitra71@gmail.com
+- ⚡ **Fun fact:** I enjoy turning ideas into real-world web applications
+ 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shayan.mitra.92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bong.mitra_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayan-mitra-31929937a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayanmitra71@gmail.com) 
 
