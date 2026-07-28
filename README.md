@@ -10,6 +10,16 @@ Email Me 👉 ✉️ **shayanmitra71@gmail.com**  For Collaboration/Project or A
 - 💬 **Ask me about:** HTML, CSS, JavaScript, React, & Frontend Development 
 - 📫 **How to reach me:** shayanmitra71@gmail.com
 - ⚡ **Fun fact:** I enjoy turning ideas into real-world web applications
+
+  ## 🔗 Let's Connect. 🌐
+
+Stay connected and be a part of my journey as I learn, build, and explore the world of technology. Feel free to connect with me on LinkedIn, Instagram, and Facebook.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shayan%20Mitra-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-mitra-31929937a)
+[![Instagram](https://img.shields.io/badge/Instagram-bong.mitra__07-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/bong.mitra_07?igsh=MTBudGg5ZThuYzFudQ==)
+[![Facebook](https://img.shields.io/badge/Facebook-Shayan%20Mitra-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/19PgjKbF4U/)
+
+[![](https://visitcount.itsvg.in/api?id=shayanmitra&icon=5&color=6)](https://visitcount.itsvg.in)
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shayan.mitra.92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bong.mitra_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayan-mitra-31929937a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayanmitra71@gmail.com) 
