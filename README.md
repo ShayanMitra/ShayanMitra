@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **shayanmitra71@gmail.com**  For Collaboration/Project or A
 - 🌱 **Academic Journey:** B.Tech CSE Undergraduate Student @IEM Kolkata
 - 👯 **I’m looking to collaborate on:** Frontend and Full-Stack Web Development Projects
 - 🤔 **I’m looking for help with:** Backend Development and Open Source Contributions
-- 💬 **Ask me about:** HTML, CSS, JavaScript, React, & Frontend Development 
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, OpenCV, PyQt6 
 - 📫 **How to reach me:** shayanmitra71@gmail.com
 - ⚡ **Fun fact:** I enjoy turning ideas into real-world web applications
 
