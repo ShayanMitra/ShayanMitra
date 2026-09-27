@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shayanmitra71@gmail.com**  For Collaboration/Project or Anything Else 😊😊
 
-- 🔭 **I’m currently working on:** Frontend Projects, React.js, Node.js, Express.js, MongoDB & DSA
+- 🔭 **I’m currently working on:** Frontend Projects, PyQt6, OpenCV, React.js, Node.js, Express.js, MongoDB
 - 🌱 **Academic Journey:** B.Tech CSE Undergraduate Student @IEM Kolkata
 - 👯 **I’m looking to collaborate on:** Frontend and Full-Stack Web Development Projects
 - 🤔 **I’m looking for help with:** Backend Development and Open Source Contributions
